@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GameBoard>
+    <Row>
+        <Cell>X</Cell>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+    </Row>
+    <Row>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+    </Row>
+    <Row>
+        <Cell/>
+        <Cell/>
+        <Cell>O</Cell>
+        <Cell/>
+        <Cell/>
+    </Row>
+    <Row>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+    </Row>
+    <Row>
+        <Cell/>
+        <Cell/>
+        <Cell/>
+        <Cell>X</Cell>
+        <Cell/>
+    </Row>
+    <WinThreshold>3</WinThreshold>
+    <Turn>4</Turn>
+</GameBoard>
